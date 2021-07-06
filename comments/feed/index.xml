@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>
-	Bình luận cho MY WORDPRESS	</title>
+	Bình luận cho NguyenHoaiGiang	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://giangdeptr.github.io/Giang</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description>Thú Cưng Là Một Người Bạn Tuyệt Vời</description>
 	<lastBuildDate>Tue, 01 Jun 2021 03:39:49 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
